@@ -109,21 +109,7 @@
   margin: 0 auto;
 }
 
-.hr1 {
-  position: absolute;
-  top: 160px;
-  width: 120px;
-  right: 490px;
-  border: 2px solid rgb(34, 33, 33);
-}
 
-.hr2 {
-  position: absolute;
-  top: 160px;
-  width: 130px;
-  left: 490px;
-  border: 2px solid rgb(34, 33, 33);
-}
 
 .challenge {
   font-family: "Montserrat", sans-serif;
@@ -155,7 +141,7 @@
 
 .other iframe {
   position: relative;
-  top: 50px;
+  top: 20px;
   display: inline-block;
   padding: 100px 40px;
   cursor: pointer;
